@@ -50,12 +50,7 @@ The project also incorporates a recommender system,Insights module to suggest pr
 - Build a recommender system to suggest properties based on user inputs (e.g., budget, location, size).
 - Techniques used:
   - Content-based filtering.
-  - Collaborative filtering (if applicable).
-
-### 9. Deployment
-- Deploy the analytics and recommender system on a web application (optional).
-- Tools: Flask/Django for backend, React/HTML for frontend.
-
+  - Collaborative filtering 
 ## Dataset
 - **Source:** Real estate listings in Gurgaon, Delhi.
 - **Features:**
